@@ -14,17 +14,17 @@ Run ``npm run start`
 ```
 POST /shipping/barcode
 Authorization: Bearer token
-```
 
 Body:
-
-```
 {
     "CustomerCode": "********",
     "CustomerNumber": "********",
     "Type": "********",
     "apikey": "********"
 }
+
+Response:
+<Barcode>
 ```
 
 2. receive status

@@ -2,6 +2,10 @@
 
 Using nestJS for scalability.
 
+## start development mode
+
+Run ``npm run start`
+
 ## Available routes
 
 1. Receive a barcode
@@ -25,7 +29,10 @@ Body:
 
 2. receive status
    Endpoint:
-   `GET /status`
+
+```
+GET /status
+```
 
 ## Logging
 

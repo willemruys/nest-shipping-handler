@@ -9,7 +9,6 @@ Run `npm run start`
 ## Available routes
 
 1. Receive a barcode
-   Endpoint:
 
 ```
 POST /shipping/barcode

@@ -27,10 +27,24 @@ Response:
 ```
 
 2. receive status
-   Endpoint:
 
 ```
 GET /status
+```
+
+3. login
+
+```
+POST /auth/login
+
+Body:
+{
+    "username": "TestUser",
+    "password": "PasswordUser1"
+}
+
+Response:
+bearer token
 ```
 
 ## Logging

@@ -4,7 +4,7 @@ Using nestJS for scalability.
 
 ## start development mode
 
-Run ``npm run start`
+Run `npm run start`
 
 ## Available routes
 
